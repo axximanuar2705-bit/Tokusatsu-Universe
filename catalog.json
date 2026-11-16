@@ -1,0 +1,372 @@
+{
+  "catalogs": {
+    "Kamen Rider": [
+      {
+        "id": "kamen-rider-kuuga",
+        "name": "Kamen Rider Kuuga",
+        "year": "2000",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-agito",
+        "name": "Kamen Rider Agito",
+        "year": "2001",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-ryuki",
+        "name": "Kamen Rider Ryuki",
+        "year": "2002",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-faiz",
+        "name": "Kamen Rider 555 (Faiz)",
+        "year": "2003",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-blade",
+        "name": "Kamen Rider Blade",
+        "year": "2004",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-den-o",
+        "name": "Kamen Rider Den-O",
+        "year": "2007",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-w",
+        "name": "Kamen Rider W",
+        "year": "2009",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-ooo",
+        "name": "Kamen Rider OOO",
+        "year": "2010",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-drive",
+        "name": "Kamen Rider Drive",
+        "year": "2014",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-build",
+        "name": "Kamen Rider Build",
+        "year": "2017",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-zero-one",
+        "name": "Kamen Rider Zero-One",
+        "year": "2019",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-geats",
+        "name": "Kamen Rider Geats",
+        "year": "2022",
+        "type": "series"
+      },
+      {
+        "id": "kamen-rider-gotchard",
+        "name": "Kamen Rider Gotchard",
+        "year": "2023",
+        "type": "series"
+      }
+    ],
+    "Ultraman": [
+      {
+        "id": "ultraman",
+        "name": "Ultraman",
+        "year": "1966",
+        "type": "series"
+      },
+      {
+        "id": "ultraseven",
+        "name": "Ultraseven",
+        "year": "1967",
+        "type": "series"
+      },
+      {
+        "id": "return-of-ultraman",
+        "name": "Return of Ultraman",
+        "year": "1971",
+        "type": "series"
+      },
+      {
+        "id": "ultraman-tiga",
+        "name": "Ultraman Tiga",
+        "year": "1996",
+        "type": "series"
+      },
+      {
+        "id": "ultraman-gaia",
+        "name": "Ultraman Gaia",
+        "year": "1998",
+        "type": "series"
+      },
+      {
+        "id": "ultraman-mebius",
+        "name": "Ultraman Mebius",
+        "year": "2006",
+        "type": "series"
+      },
+      {
+        "id": "ultraman-zero",
+        "name": "Ultraman Zero: The Revenge of Belial",
+        "year": "2010",
+        "type": "movie"
+      },
+      {
+        "id": "ultraman-orb",
+        "name": "Ultraman Orb",
+        "year": "2016",
+        "type": "series"
+      },
+      {
+        "id": "ultraman-z",
+        "name": "Ultraman Z",
+        "year": "2020",
+        "type": "series"
+      },
+      {
+        "id": "ultraman-blazar",
+        "name": "Ultraman Blazar",
+        "year": "2023",
+        "type": "series"
+      }
+    ],
+    "Super Sentai": [
+      {
+        "id": "himitsu-sentai-gorenger",
+        "name": "Himitsu Sentai Gorenger",
+        "year": "1975",
+        "type": "series"
+      },
+      {
+        "id": "battle-fever-j",
+        "name": "Battle Fever J",
+        "year": "1979",
+        "type": "series"
+      },
+      {
+        "id": "dai-sentai-goggle-v",
+        "name": "Dai Sentai Goggle-V",
+        "year": "1982",
+        "type": "series"
+      },
+      {
+        "id": "chojuu-sentai-liveman",
+        "name": "Choujuu Sentai Liveman",
+        "year": "1988",
+        "type": "series"
+      },
+      {
+        "id": "kyoryu-sentai-zyuranger",
+        "name": "Kyoryu Sentai Zyuranger",
+        "year": "1992",
+        "type": "series"
+      },
+      {
+        "id": "gekisou-sentai-carranger",
+        "name": "Gekisou Sentai Carranger",
+        "year": "1996",
+        "type": "series"
+      },
+      {
+        "id": "hyakujuu-sentai-gaoranger",
+        "name": "Hyakujuu Sentai Gaoranger",
+        "year": "2001",
+        "type": "series"
+      },
+      {
+        "id": "tokusou-sentai-dekaranger",
+        "name": "Tokusou Sentai Dekaranger",
+        "year": "2004",
+        "type": "series"
+      },
+      {
+        "id": "samurai-sentai-shinkenger",
+        "name": "Samurai Sentai Shinkenger",
+        "year": "2009",
+        "type": "series"
+      },
+      {
+        "id": "kaizoku-sentai-gokaiger",
+        "name": "Kaizoku Sentai Gokaiger",
+        "year": "2011",
+        "type": "series"
+      },
+      {
+        "id": "ressha-sentai-toqger",
+        "name": "Ressha Sentai ToQger",
+        "year": "2014",
+        "type": "series"
+      },
+      {
+        "id": "kaitou-sentai-lupinranger-vs-keisatsu-sentai-patranger",
+        "name": "Lupinranger VS Patranger",
+        "year": "2018",
+        "type": "series"
+      },
+      {
+        "id": "avataro-sentai-donbrothers",
+        "name": "Avataro Sentai Donbrothers",
+        "year": "2022",
+        "type": "series"
+      },
+      {
+        "id": "bakuage-sentai-boonboomger",
+        "name": "Bakuage Sentai Boonboomger",
+        "year": "2024",
+        "type": "series"
+      }
+    ],
+    "Metal Hero": [
+      {
+        "id": "宇宙刑事ギャバン",
+        "name": "Space Sheriff Gavan",
+        "year": "1982",
+        "type": "series"
+      },
+      {
+        "id": "宇宙刑事シャリバン",
+        "name": "Space Sheriff Sharivan",
+        "year": "1983",
+        "type": "series"
+      },
+      {
+        "id": "宇宙刑事シャイダー",
+        "name": "Space Sheriff Shaider",
+        "year": "1984",
+        "type": "series"
+      },
+      {
+        "id": "juspion",
+        "name": "Juspion",
+        "year": "1985",
+        "type": "series"
+      },
+      {
+        "id": "janperson",
+        "name": "Janperson",
+        "year": "1993",
+        "type": "series"
+      },
+      {
+        "id": "juukou-b-fighter",
+        "name": "Juukou B-Fighter",
+        "year": "1995",
+        "type": "series"
+      }
+    ],
+    "Godzilla & Kaiju": [
+      {
+        "id": "godzilla-1954",
+        "name": "Godzilla",
+        "year": "1954",
+        "type": "movie"
+      },
+      {
+        "id": "godzilla-raids-again",
+        "name": "Godzilla Raids Again",
+        "year": "1955",
+        "type": "movie"
+      },
+      {
+        "id": "mothra-1961",
+        "name": "Mothra",
+        "year": "1961",
+        "type": "movie"
+      },
+      {
+        "id": "ghidorah-the-three-headed-monster",
+        "name": "Ghidorah, the Three-Headed Monster",
+        "year": "1964",
+        "type": "movie"
+      },
+      {
+        "id": "godzilla-minus-one",
+        "name": "Godzilla Minus One",
+        "year": "2023",
+        "type": "movie"
+      }
+    ],
+    "Other Tokusatsu": [
+      {
+        "id": "kikaider",
+        "name": "Android Kikaider",
+        "year": "1972",
+        "type": "series"
+      },
+      {
+        "id": "inazuman",
+        "name": "Inazuman",
+        "year": "1973",
+        "type": "series"
+      },
+      {
+        "id": "denjin-zaboga",
+        "name": "Denjin Zaborger",
+        "year": "1974",
+        "type": "series"
+      },
+      {
+        "id": "iron-king",
+        "name": "Iron King",
+        "year": "1972",
+        "type": "series"
+      },
+      {
+        "id": "ryukendo",
+        "name": "Madan Senki Ryukendo",
+        "year": "2006",
+        "type": "series"
+      }
+    ],
+    "GARО": [
+      {
+        "id": "garo",
+        "name": "GARO",
+        "year": "2005",
+        "type": "series"
+      },
+      {
+        "id": "garo-makai-senki",
+        "name": "GARO: Makai Senki",
+        "year": "2011",
+        "type": "series"
+      },
+      {
+        "id": "garo-yami-wo-terasu-mono",
+        "name": "GARO: Yami wo Terasu Mono",
+        "year": "2013",
+        "type": "series"
+      },
+      {
+        "id": "garo-makai-no-hana",
+        "name": "GARO: Makai no Hana",
+        "year": "2014",
+        "type": "series"
+      },
+      {
+        "id": "garo-gold-storm-sho",
+        "name": "GARO: Gold Storm Sho",
+        "year": "2015",
+        "type": "series"
+      },
+      {
+        "id": "garo-makai-r烈伝",
+        "name": "GARO: Makai Retsuden",
+        "year": "2016",
+        "type": "series"
+      }
+    ]
+  }
+}

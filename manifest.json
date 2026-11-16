@@ -1,0 +1,59 @@
+{
+  "id": "community.tokusatsu.universe",
+  "version": "0.1.0",
+  "name": "TOKUSATSU UNIVERSE",
+  "description": "Fan-made tokusatsu discovery catalogs: Kamen Rider, Ultraman, Super Sentai, GARO, Metal Hero, kaiju and more. Metadata catalog only; no streams.",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "kamen-rider",
+      "name": "Kamen Rider"
+    },
+    {
+      "type": "movie",
+      "id": "ultraman",
+      "name": "Ultraman"
+    },
+    {
+      "type": "series",
+      "id": "ultraman",
+      "name": "Ultraman"
+    },
+    {
+      "type": "series",
+      "id": "super-sentai",
+      "name": "Super Sentai"
+    },
+    {
+      "type": "series",
+      "id": "metal-hero",
+      "name": "Metal Hero"
+    },
+    {
+      "type": "movie",
+      "id": "godzilla-and-kaiju",
+      "name": "Godzilla & Kaiju"
+    },
+    {
+      "type": "series",
+      "id": "other-tokusatsu",
+      "name": "Other Tokusatsu"
+    },
+    {
+      "type": "series",
+      "id": "garо",
+      "name": "GARО"
+    }
+  ],
+  "idPrefixes": [
+    "tu:"
+  ]
+}
